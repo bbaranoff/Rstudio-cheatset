@@ -1,5 +1,5 @@
 # Rstudio-cheatset
 
 ```bash
-sudo bash rstudio-install.sh
+sudo bash install-rstudio.sh
 ```
