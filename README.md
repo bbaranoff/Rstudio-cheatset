@@ -1,9 +1,8 @@
 # Rstudio-cheatset
 
 
-![](https://youtu.be/9R8aEQMpPbA){width="90%"}
 
-
+[![Video](img.jpg)](https://www.youtube.com/watch?v=9R8aEQMpPbA)
 ```bash
 sudo apt install git
 git clone https://github.com/bbaranoff/Rstudio-cheatset
