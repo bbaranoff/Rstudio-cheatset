@@ -1,5 +1,5 @@
 export DEBIAN_FRONTEND=noninteractive
-apt update && apt install -y software-properties-common
+apt update && apt install -y software-properties-common texlive-xetex
 add-apt-repository -y ppa:c2d4u.team/c2d4u4.0+
 echo "deb https://cloud.r-project.org/bin/linux/ubuntu noble-cran40/" > /etc/apt/sources.list.d/cran.list
 apt-key adv --keyserver keyserver.ubuntu.com --recv-keys E298A3A825C0D65DFD57CBB651716619E084DAB9
