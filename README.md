@@ -1,6 +1,7 @@
 # Rstudio-cheatset
-<iframe src="https://www.youtube.com/embed/9R8aEQMpPbA" data-external= "1" > </iframe>
 
+
+![](https://youtu.be/9R8aEQMpPbA){width="90%"}
 
 
 ```bash
